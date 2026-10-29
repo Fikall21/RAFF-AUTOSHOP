@@ -1,0 +1,30 @@
+name: raff_autoshop
+description: "Aplikasi E-Commerce Katalog Velg Mobil RAFF AUTOSHOP"
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Icon bawaan iOS/Cupertino
+  cupertino_icons: ^1.0.8
+
+  # Package opsional jika ingin gambar network di-cache otomatis
+  cached_network_image: ^3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # PENTING: Mendaftarkan folder assets untuk foto velg offline/lokal
+  assets:
+    - assets/

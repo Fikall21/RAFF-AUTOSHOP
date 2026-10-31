@@ -1,17 +1,13 @@
-# jual_velg_mobil
+# RAFF AUTOSHOP - E-Commerce Katalog Velg Mobil
 
-A new Flutter project.
+Aplikasi katalog velg mobil berbasis Flutter dengan tampilan pastel & racing stylish.
 
-## Getting Started
+## Fitur Utama
+- Katalog 12 pilihan velg racing JDM, European, & Local (format WebP lokal)
+- Banner promosi / iklan otomatis (Auto-Scroll Carousel)
+- Pencarian produk berdasarkan nama, kategori, dan spesifikasi
+- Halaman detail produk & opsi pemilihan ukuran ring velg
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo & Penjelasan Aplikasi
+Tonton video demo dan penjelasan aplikasi di YouTube:
+[Link Video Demo RAFF AUTOSHOP](https://youtube.com/watch?v=yX09CvaMbTk&feature=shared)
